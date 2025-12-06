@@ -23,7 +23,7 @@ Skills: Python/Pandas/Numpy/POWER BI/SQL/ MS Excel
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanBAN&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/rohanBAN/contributions?format=svg&private=true)  
+  
 
 ![GitHub metrics](https://metrics.lecoq.io/rohanBAN)  
 
